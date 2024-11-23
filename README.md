@@ -1,3 +1,20 @@
+This react native app depicts the feature of api data retrieval by asynchronous call and multiple selection after mapping data.
+
+**Steps:**
+1. Data is retrieved via fetch call
+2. it is mapped to local state with only names
+3. css styling provides the multiple selection and deselection of rows.
+
+Screenshots:
+![Screenshot (44)](https://github.com/user-attachments/assets/250afc04-b58b-44c2-8694-7fb8ade4ee60)
+
+![Screenshot (45)](https://github.com/user-attachments/assets/faeadb49-1e77-4f07-80aa-a1a0f9844c1c)
+
+
+
+
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
